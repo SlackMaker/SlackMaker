@@ -2,15 +2,18 @@
 
 ## Sobre mim
 
-🚀 Explorando novas tecnologias e desenvolvendo soluções de software.
-🎓 Estudando sempre para obter certificações na área.
-💼 Atuando como SRE.
+🚀 Explorando novas tecnologias e desenvolvendo soluções de software.  
+🎓 Estudando sempre para obter skills e certificações na área.  
+💼 Atuando como SRE.  
 🌱 Aprofundando conhecimentos em Kubernetes.
+
 
 ---
 
-**Tecnologias:**  
-Kubernetes, ArgoCD, Datadog, GitHub, Prometheus, Grafana, Zabbix, Python, Terraform, Splunk
+## Tecnologias:
+Kubernetes • ArgoCD • Datadog • GitHub • Prometheus • Grafana • Zabbix  
+Python • Terraform • Splunk
+
 ---
 
 ## Minhas Skills
