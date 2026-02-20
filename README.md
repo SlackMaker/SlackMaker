@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+🚀 Explorando novas tecnologias e desenvolvendo soluções de software.
 🎓 Estudando sempre para obter certificações na área.
 💼 Atuando como SRE.
 🌱 Aprofundando conhecimentos em Kubernetes.
