@@ -1,16 +1,19 @@
-# Marcos Andre
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=slackmaker&theme=tokyonight&hide_border=true"/>
+</div>
+
 
 ## Sobre mim
 
-🚀 Explorando novas tecnologias e desenvolvendo soluções de software.  
-🎓 Estudando sempre para obter skills e certificações na área.  
-💼 Atuando como SRE.  
-🌱 Aprofundando conhecimentos em Kubernetes.
-
+🚀 Explorando e implementando soluções modernas em infraestrutura e software.  
+🎓 Evoluindo continuamente por meio de certificações e aprimoramento técnico.  
+💼 Atuando como Site Reliability Engineer (SRE).  
+🌱 Especializando-me cada vez mais em Kubernetes e ecossistema cloud-native.
 
 ---
 
-## Tecnologias:
+## Tecnologias
+
 Kubernetes • ArgoCD • Datadog • GitHub • Prometheus • Grafana • Zabbix  
 Python • Terraform • Splunk
 
@@ -23,7 +26,7 @@ Python • Terraform • Splunk
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### DevOps
+### DevOps & Cloud
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -50,3 +53,5 @@ Python • Terraform • Splunk
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosaasilva)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcospantazis@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/slackmaker)
+
+---
